@@ -59,9 +59,14 @@
   top: -8px;
   right: -8px;
 }
+@media (max-width: 3840px) {
+  .navbar.logo {
+    width: 120px;
+  }
+}
 @media (max-width: 1050px) {
   .navbar .logo {
-    width: 140px;
+    width: 120px;
   }
   .navbar-menu {
     gap: 20px;
