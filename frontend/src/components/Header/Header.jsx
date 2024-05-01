@@ -7,10 +7,9 @@ const Header = () => {
       <div className="header-contents">
         <h2>Order your Favourite food here</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-          voluptatibus cupiditate, vero delectus sequi nihil. Quasi cupiditate
-          tempore aut iusto nobis accusantium possimus vero, quidem saepe eos,
-          architecto cum asperiores.
+          Choose from a diverse menu crafted with finest ingredients and
+          culinary expertise. Our mission is to deliver homely food to your
+          doorsteps to elevate your dining experience.
         </p>
         <button>View Menu</button>
       </div>
