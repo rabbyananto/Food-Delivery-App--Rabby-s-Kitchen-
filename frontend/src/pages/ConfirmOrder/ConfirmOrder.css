@@ -28,6 +28,7 @@
 }
 
 .confirm-contents button {
+  margin-top: 20px;
   border: none;
   color: white;
   font-weight: 500;
