@@ -9,9 +9,9 @@ const ConfirmOrder = () => {
       <div className="confirm-contents">
         <h2>Your Order is Confirmed 📦& on your way.🛵</h2>
         <p>
-          Your order is being processed & soon be out for delivery. Once there
-          is update on the delivery you will be notified. Thank you for your
-          order. Bon appetit 👏🏼 !
+          Your order is being processed & will soon be out for delivery. Once
+          there is update on the delivery you will be notified. Thank you for
+          your order. Bon appetit 👏🏼 !
         </p>
         <button onClick={() => navigateToHome("/")}>Homepage</button>
       </div>
